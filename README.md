@@ -1,4 +1,4 @@
-# C TicTacToe TCP socket programming
+# Console based Tic Tac Toe game, written in C with TCP socket programming and Minimax Algorithm
 **Creation date: 2021-01-05**
 
 This is a C, console based implementation of TicTacToe game, with **TCP socket** connection between client and server for my C programming classes in the first semester.
