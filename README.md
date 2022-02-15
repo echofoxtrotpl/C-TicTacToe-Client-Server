@@ -1,5 +1,5 @@
 # C TicTacToe TCP socket programming
-This is a C implementation of TicTacToe game, with TCP socket connection between client and server.
+This is a C implementation of TicTacToe game, with TCP socket connection between client and server for C programming classes in the first semester.
 
 To start you will need a C compiler, and two terminal windows (or two tabs) opened.
 
@@ -13,11 +13,11 @@ To start you will need a C compiler, and two terminal windows (or two tabs) open
 
     ```gcc ttt_client.c -o ttt_client```
 
-4. In order to run server in the first terminal type:
+4. In order to run a server in the first terminal type:
 
     ```./ttt_serv```
 
-5. And to run client in the other one type:
+5. And to run a client in the other terminal type:
 
     ```./ttt_client```
 
