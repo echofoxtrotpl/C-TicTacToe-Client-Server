@@ -1,4 +1,4 @@
-# C TicTacToe Client Server
+# C TicTacToe TCP socket programming
 This is a C implementation of TicTacToe game, with TCP socket connection between client and server.
 
 To start you will need a C compiler, and two terminal windows (or two tabs) opened.
