@@ -1,7 +1,9 @@
 # C TicTacToe TCP socket programming
 **Creation date: 2021-01-05**
 
-This is a C, console based implementation of TicTacToe game, with TCP socket connection between client and server for C programming classes in the first semester.
+This is a C, console based implementation of TicTacToe game, with **TCP socket** connection between client and server for my C programming classes in the first semester.
+
+This version is using **Minimax Algorithm** in order to provide opponent 'AI'.
 
 To start you will need a C compiler, and two terminal windows (or two tabs) opened.
 
